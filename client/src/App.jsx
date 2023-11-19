@@ -10,7 +10,7 @@ const App = () => (
     <Link to="/" className="flex items-center max-h-10">
       <img src={logo} alt="logo" className="w-16 mb-2 object-contain" />
       <div className="ml-2"> {/* Adjust the margin as needed */}
-        <h1 className="font-extrabold text-[#222328] text-[32px]">DeltaVisio AI</h1>
+        <h1 className="font-extrabold text-[#222328] text-2xl sm:text-3xl md:text-4xl lg:text-4xl xl:text-4xl 2xl:text-3xl 3xl:text-4xl">DeltaVisio AI</h1>
       </div>
     </Link>
 
